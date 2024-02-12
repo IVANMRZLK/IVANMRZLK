@@ -1,7 +1,7 @@
 ### Hi there ,I'm Ivan!
 
 <p>
-  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+ 
 </p>
 
 ## Programming Languages
